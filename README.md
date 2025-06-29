@@ -15,6 +15,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-007ACC?style=for-the-badge&logo=visualbasic&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
@@ -22,7 +24,7 @@
 
 - 🏢 [AzurImmo](https://github.com/Skrylleur/API_Azurimmo) – gestion immobilière complète (Java, Next.js, Kotlin)
 - 🎯 [Midi-match](https://github.com/Skrylleur/Midi-match) – app mobile pour choisir son repas aléatoirement
-- 🧠 [CitationMaster](https://github.com/Skrylleur/CitationMaster) – outil pour booster ses révisions avec l’IA
+- 🧠 [CitationMaster](https://github.com/Skrylleur/CitationMaster) – outil pour développer mes compétences en Next.js
 - 💼 [Portfolio](https://github.com/Skrylleur/Portfolio-2025) – site personnel pro (Next.js + Tailwind)
 
 ---
