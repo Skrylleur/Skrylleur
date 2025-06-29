@@ -31,7 +31,7 @@
 
 ## 🔗 Me découvrir
 
-- 🌐 [Mon portfolio](https://gournchas.com)
+- 🌐 [Mon portfolio](https://gourinchas.com)
 - 💼 [Mon LinkedIn](https://www.linkedin.com/in/antonin-gourinchas/)
 
 ---
