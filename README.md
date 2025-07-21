@@ -22,12 +22,16 @@
 
 ## 🧪 Projets en cours
 
-- 🏢 [AzurImmo](https://github.com/Skrylleur/API_Azurimmo) – gestion immobilière complète (Java, Next.js, Kotlin)
-- 🎯 [Midi-match](https://github.com/Skrylleur/Midi-match) – app mobile pour choisir son repas aléatoirement
-- 🧠 [CitationMaster](https://github.com/Skrylleur/CitationMaster) – outil pour développer mes compétences en Next.js
-- 💼 [Portfolio](https://github.com/Skrylleur/Portfolio-2025) – site personnel pro (Next.js + Tailwind)
+- 🎯 [Midi-match](https://github.com/Skrylleur/Midi-match) – app web pour choisir son repas aléatoirement
+- 📚 [L'affaire TonnerreSol](https://github.com/Skrylleur/L-affaire-TonnerreSol) - Futur site du festival de la BD Tonnerrois
 
 ---
+
+## 🎬 Projets terminés
+
+- 🏢 [AzurImmo](https://github.com/Skrylleur/API_Azurimmo) – gestion immobilière complète (Java, Next.js, Kotlin)
+- 💼 [Portfolio](https://github.com/Skrylleur/Portfolio-2025) – site personnel pro (Next.js + Tailwind)
+- 🧠 [CitationMaster](https://github.com/Skrylleur/CitationMaster) – outil pour développer mes compétences en Next.js
 
 ## 🔗 Me découvrir
 
