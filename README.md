@@ -23,7 +23,6 @@
 ## 🧪 Projets en cours
 
 - 🎯 [Midi-match](https://github.com/Skrylleur/Midi-match) – app web pour choisir son repas aléatoirement
-- 📚 [L'affaire TonnerreSol](https://github.com/Skrylleur/L-affaire-TonnerreSol) - Futur site du festival de la BD Tonnerrois
 
 ---
 
