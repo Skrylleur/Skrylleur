@@ -28,10 +28,11 @@
 
 ## 🎬 Projets terminés
 
-- 🍽️ [Le-Bateau-Ivre](https://github.com/Skrylleur/le-bateau-ivre) - site web pour une brasserie (Next.js, TypeScript)
-- 🏢 [AzurImmo](https://github.com/Skrylleur/API_Azurimmo) – gestion immobilière complète (Java, Next.js, Kotlin)
-- 💼 [Portfolio](https://github.com/Skrylleur/Portfolio-2025) – site personnel pro (Next.js + Tailwind)
-- 🧠 [CitationMaster](https://github.com/Skrylleur/CitationMaster) – outil pour développer mes compétences en Next.js
+- 💼 [Portfolio](https://portfolio-dan-laine.netlify.app) - site vitrine pour un étudiant en licence cybersécurité (Next.js, TypeScript, Tailwind) 
+- 🍽️ [Le-Bateau-Ivre](https://github.com/Skrylleur/le-bateau-ivre) - site web pour une brasserie (Next.js, TypeScript, Tailwind) 
+- 🏢 [AzurImmo](https://github.com/Skrylleur/API_Azurimmo) – gestion immobilière complète (Java, Next.js, Kotlin, Tailwind) 
+- 💼 [Portfolio](https://github.com/Skrylleur/Portfolio-2025) – site personnel (Next.js, TypeScript, Tailwind)
+- 🧠 [CitationMaster](https://github.com/Skrylleur/CitationMaster) – outil pour développer mes compétences en Next.js (Next.js, TypeScript, Tailwind)
 
 ## 🔗 Me découvrir
 
